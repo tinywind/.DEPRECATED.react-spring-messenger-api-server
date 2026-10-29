@@ -33,7 +33,7 @@ buildscript {
 
 plugins {
     id("org.flywaydb.flyway") version "7.12.1"
-    id("nu.studer.jooq") version "6.0"
+    id("nu.studer.jooq") version "10.2.1"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
 }
 
